@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9e7acbd-3cd6-4173-ad43-92c818210caf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Services/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Services/CodeGenerator.java" afterDir="false" />
+    </list>
+    <list id="729c6732-305b-40b6-ab15-7f55b5bc0114" name="Changes by gogi4" comment="" />
+    <list id="cf1415e9-260a-4d30-ae83-47555ca886f8" name="Changes by karin" comment="" />
+    <list id="7895ba6e-8579-4086-9827-c1bdda271f2f" name="Changes by karina" comment="" />
+    <list id="59ad9343-2b13-4f2d-a598-425cd2b8a71e" name="Changes by Magne" comment="" />
+    <list id="22c4660c-0fab-40f0-9507-5ff260d057b8" name="Changes by perni" comment="" />
+    <list id="955447af-3d32-43a7-9044-30a5eb68be7e" name="Changes by Toby" comment="" />
+    <list id="ca350eb9-2cbf-447d-b79d-80007d99a654" name="Changes by tubbe" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main/Services/SparkToJavaVisitor.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NxDIrDuO9h7xUVe9w9aKecuaob" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Magne/Documents/GitHub/P4/Input/code.txt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karin\OneDrive\Dokumenter\GitHub\P4\Input" />
+      <recent name="C:\Users\tubbe\Desktop\P4\Backup" />
+      <recent name="bnf.interp bnf.tokens bnfBaseListener bnfBaseVisitor bnfLexer bnfLexer.interp bnfLexer.tokens bnfListener bnfParser bnfVisitor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tubbe\Desktop\P4\src\Main\AntlrGenerated" />
+      <recent name="C:\Users\tubbe\OneDrive\Skrivebord\P4\src\Main\AntlrGenerated" />
+      <recent name="C:\Users\tubbe\Desktop\P4\Backup\BNF" />
+      <recent name="C:\Users\perni\Desktop\P4\src\Main\AntlrGenerated" />
+      <recent name="C:\Users\perni\Desktop\P4\src\Main\bin" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="UnitTesting" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Main.Exceptions" />
+      <recent name="Main.Services" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Output" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="JavaFile" />
+      <module name="P4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="P4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ComposePreviewRunConfiguration">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="--es composable " />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="androidx.compose.ui.tooling.PreviewActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="true" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <compose-preview-run-configuration composable-fqn="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <shortenClasspath name="NONE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyVistorTest.visitComparator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="P4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTesting" />
+      <option name="MAIN_CLASS_NAME" value="UnitTesting.MyVistorTest" />
+      <option name="METHOD_NAME" value="visitComparator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyVistorTest.visitDeclaration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="P4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTesting" />
+      <option name="MAIN_CLASS_NAME" value="UnitTesting.MyVistorTest" />
+      <option name="METHOD_NAME" value="visitDeclaration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyVistorTest.visitLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="P4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTesting" />
+      <option name="MAIN_CLASS_NAME" value="UnitTesting.MyVistorTest" />
+      <option name="METHOD_NAME" value="visitLine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyVistorTest.visitValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="P4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTesting" />
+      <option name="MAIN_CLASS_NAME" value="UnitTesting.MyVistorTest" />
+      <option name="METHOD_NAME" value="visitValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SymbolTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="P4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTesting" />
+      <option name="MAIN_CLASS_NAME" value="UnitTesting.SymbolTableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="pwd" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="cd" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="false" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Main" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Output" />
+      <item itemvalue="JUnit.MyVistorTest.visitDeclaration" />
+      <item itemvalue="JUnit.MyVistorTest.visitLine" />
+      <item itemvalue="JUnit.SymbolTableTest" />
+      <item itemvalue="JUnit.MyVistorTest.visitComparator" />
+      <item itemvalue="JUnit.MyVistorTest.visitValue" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyVistorTest.visitComparator" />
+        <item itemvalue="JUnit.MyVistorTest.visitLine" />
+        <item itemvalue="JUnit.MyVistorTest.visitValue" />
+        <item itemvalue="JUnit.MyVistorTest.visitDeclaration" />
+        <item itemvalue="JUnit.SymbolTableTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9e7acbd-3cd6-4173-ad43-92c818210caf" name="Changes" comment="" />
+      <created>1680596770001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680596770001</updated>
+      <workItem from="1680596777402" duration="63000" />
+      <workItem from="1680596845048" duration="2732000" />
+      <workItem from="1680605294623" duration="996000" />
+      <workItem from="1680678709163" duration="66000" />
+      <workItem from="1680678792259" duration="2277000" />
+      <workItem from="1681383421023" duration="3724000" />
+      <workItem from="1681477921946" duration="8933000" />
+      <workItem from="1681718746702" duration="1901000" />
+      <workItem from="1681802340204" duration="6558000" />
+      <workItem from="1681889833317" duration="6695000" />
+      <workItem from="1681977390508" duration="1191000" />
+      <workItem from="1682330431758" duration="13000" />
+      <workItem from="1682331473675" duration="8885000" />
+      <workItem from="1682580451384" duration="15734000" />
+      <workItem from="1683029496572" duration="26247000" />
+      <workItem from="1683182461620" duration="11024000" />
+      <workItem from="1683197079486" duration="23000" />
+      <workItem from="1683197213367" duration="1351000" />
+      <workItem from="1683203501575" duration="4959000" />
+      <workItem from="1683291680135" duration="1073000" />
+      <workItem from="1683293292165" duration="1911000" />
+      <workItem from="1683615108495" duration="1019000" />
+      <workItem from="1683629464907" duration="216000" />
+      <workItem from="1683630084620" duration="9062000" />
+      <workItem from="1683702828874" duration="26119000" />
+      <workItem from="1683733297306" duration="719000" />
+      <workItem from="1683736087318" duration="2525000" />
+      <workItem from="1683786914551" duration="8612000" />
+      <workItem from="1683801522819" duration="3233000" />
+      <workItem from="1683804813842" duration="1897000" />
+      <workItem from="1683874405277" duration="2886000" />
+      <workItem from="1683877335575" duration="442000" />
+      <workItem from="1683877865368" duration="341000" />
+      <workItem from="1683878482476" duration="6174000" />
+      <workItem from="1684220619123" duration="10851000" />
+      <workItem from="1684391249626" duration="1533000" />
+      <workItem from="1684411000756" duration="2382000" />
+      <workItem from="1684490382709" duration="2626000" />
+      <workItem from="1684743117508" duration="1476000" />
+      <workItem from="1684994949569" duration="14731000" />
+      <workItem from="1687344504373" duration="3247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

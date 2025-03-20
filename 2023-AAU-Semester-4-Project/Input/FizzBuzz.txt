@@ -1,0 +1,21 @@
+
+number i = 0
+number input = 20
+
+
+//Prints out Fizzbuzz, Fizz, Buzz or i’s value depending on the condition
+while i < input do
+    if i % 3 = 0 and i % 5 = 0 then
+        printLine "FizzBuzz"
+        end
+    else if i % 3 = 0 then
+        printLine "Fizz"
+        end
+    else if i % 5 = 0 then
+        printLine "Buzz"
+        end
+    else then
+	  printLine i
+    	  end
+    i = i + 1
+    end

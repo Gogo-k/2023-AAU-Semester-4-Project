@@ -1,0 +1,27 @@
+on start then
+    //Do nothing extra on start
+end
+
+number y = 400
+number ySpeed = 0
+
+on eachFrame then
+
+    //background color
+    background white
+
+    //Red ball
+    color red
+    circle 400 y 50 50
+
+    //Bounce
+    y = y + ySpeed
+    if y > 750 then
+        ySpeed = ySpeed * -1
+    end else then
+        ySpeed = ySpeed + 1
+    end
+
+end
+
+

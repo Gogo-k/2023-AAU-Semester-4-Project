@@ -1,0 +1,52 @@
+
+on start then
+
+end
+
+number top = 0
+number left = 0
+number d = 0
+number e = 0
+number size = 716
+number speed = 3
+
+on eachFrame then
+
+    if (e <= size and left = 0 and top = 0) or e <= 0 then
+        e = e + speed
+        left = 0
+        if e >= size then
+            left = 1
+        end
+        printLine "right"
+    end
+    else if (d <= size and top = 0 and left = 1) or (d <= 0) then
+        d = d + speed
+        top = 0
+        if d >= size then
+            top = 1
+        end
+        printLine "down"
+    end
+    else if (e > 0 and left = 1 and top = 1) then
+        e = e - speed
+        left = 1
+        printLine "left"
+    end
+    else if (d > 0 and left = 0 and top = 1) then
+        d = d - speed
+        top = 1
+        printLine "up"
+    end
+
+    background 75 113 171
+
+    color 149 190 250
+    square e d 80 80
+
+    color 75 166 171
+    triangle 400 100 100 700 700 700
+
+    color 158 242 247
+    circle 400 515 370 370
+end

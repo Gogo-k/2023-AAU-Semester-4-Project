@@ -1,0 +1,44 @@
+on start then
+
+    //background color
+    background 21 161 95
+
+    //pikachu ears above head
+    color 242 210 46
+    triangle  100 25 150 400 325 300
+    triangle  700 25 650 400 475 300
+
+    //pikachu black part of ears
+    color 0 0 0
+    triangle  100 25 156.25 93.75 112.5 118.75
+    triangle  700 25 643.75 93.75 687.5 118.75
+
+    //face
+    color 242 210 46
+    circle 400 475 600 600
+
+    //eyes
+    color 0 0 0
+    circle 275 425 175 175
+    circle 525 425 175 175
+
+    //pupils
+    color 255 255 255
+    circle 250 375 75 75
+    circle 500 375 75 75
+
+    //cheeks
+    color 140 27 27
+    circle 200 575 100 100
+    circle 600 575 100 100
+
+    //mouth
+    color 229 103 104
+    triangle 400 700 350 625 450 625
+
+    //nose
+    color 0 0 0
+    triangle 400 525 375 575 425 575
+
+
+end
